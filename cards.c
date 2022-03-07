@@ -35,6 +35,7 @@ void	controls(void)
 	write(1, GRN" ||   -, N        : Decrease Iteration   ||\n", 52);
 	write(1, GRN" ||   Scroll UP   : Zoom_In              ||\n", 52);
 	write(1, GRN" ||   Scroll Down : Zoom_Out             ||\n", 52);
+	write(1, GRN" ||   Left Click  : Stop Julia_Set       ||\n", 52);
 	write(1, GRN" ||   C           : Change Color         ||\n", 52);
 	write(1, GRN" ||   R           : Reset                ||\n", 54);
 	write(1, GRN" ||   X, ESC, Q   : QUIT                 ||\n", 52);
